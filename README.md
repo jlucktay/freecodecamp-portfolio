@@ -13,3 +13,5 @@
                 - `<i class="fa fa-linkedin" aria-hidden="true"></i>`
             - GitHub: https://github.com/jlucktay
                 - `<i class="fa fa-github" aria-hidden="true"></i>`
+
+- [CodePen link](http://codepen.io/jlucktay/pen/vXrpWB)
