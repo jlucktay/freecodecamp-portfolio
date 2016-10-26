@@ -11,5 +11,5 @@
         - Social media buttons
             - LinkedIn: https://www.linkedin.com/in/james-lucktaylor-6939a079
                 - `<i class="fa fa-linkedin" aria-hidden="true"></i>`
-            - Github: https://github.com/jlucktay
+            - GitHub: https://github.com/jlucktay
                 - `<i class="fa fa-github" aria-hidden="true"></i>`
